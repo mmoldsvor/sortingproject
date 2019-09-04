@@ -1,4 +1,4 @@
-from sorting_algorithms import InsertionSort, RandomSort
+from sorting.sorting_algorithms import InsertionSort, RandomSort
 
 class Visualizer:
     def __init__(self, algorithm_dict, draw_factors=(.8, .8)):

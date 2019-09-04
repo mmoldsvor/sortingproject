@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plot
-from sorting_algorithms import InsertionSort, SelectionSort, BubbleSort
+from sorting.sorting_algorithms import BubbleSort
 import random
 
 test = [random.randrange(0, 100) for _ in range(10)]
