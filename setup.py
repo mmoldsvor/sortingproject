@@ -7,5 +7,5 @@ setup(name='sorting_algorithms',
       author='Martin Moldsvor',
       author_email='martin@moldsvor.com',
       license='MIT',
-      packages=['sorting_algorithm'],
+      packages=['sorting'],
       zip_safe=False)
